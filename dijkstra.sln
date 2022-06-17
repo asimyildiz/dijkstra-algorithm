@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dijkstra-tests", "dijkstra-tests\dijkstra-tests.csproj", "{454BCACC-3CA8-4900-9649-337DFBAE9FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dijkstra", "dijkstra\dijkstra.csproj", "{8BD43504-4233-46CE-9B4A-A77A828B995B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454BCACC-3CA8-4900-9649-337DFBAE9FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454BCACC-3CA8-4900-9649-337DFBAE9FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454BCACC-3CA8-4900-9649-337DFBAE9FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454BCACC-3CA8-4900-9649-337DFBAE9FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD43504-4233-46CE-9B4A-A77A828B995B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD43504-4233-46CE-9B4A-A77A828B995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD43504-4233-46CE-9B4A-A77A828B995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD43504-4233-46CE-9B4A-A77A828B995B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF30A254-370B-42E6-A1C4-D8D6F2EB9FBA}
+	EndGlobalSection
+EndGlobal
